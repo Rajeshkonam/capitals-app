@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.div1 {
+  display: flex;
+  flex-direction: row;
+}
+.div2 {
+  background-color: #ffffff;
+  height: 40%;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 16px;
+}
+.div3 {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.p1 {
+  margin-left: 5px;
+  font-weight: bold;
+  color: #323f4b;
+}
+.s1 {
+  font-weight: bold;
+  color: #323f4b;
+  height: 50px;
+  padding-left: 5px;
+}
+.p2 {
+  font-weight: bold;
+  color: #323f4b;
+  font-size: 30px;
+}
